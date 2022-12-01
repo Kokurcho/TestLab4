@@ -13,7 +13,7 @@ namespace TestProject1
 {
     public class GUITest
     {
-        private const string path = @"C:\Users\tegin\Desktop\Тестирование\TestLab4\TestLab4\bin\Debug\TestLab4.exe";
+        private const string path = @"D:\Tests_labs_2022\labs\TestLab4\TestLab4\bin\Debug\TestLab4.exe";
 
         public Window AppStart()
         {
